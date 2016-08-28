@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "MyApp\\Base\\": ""
+            "MyApp\\Base\\": "stripe/MyApp/Stripe/"
         }
     },
      "minimum-stability": "dev"
