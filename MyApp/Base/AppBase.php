@@ -1,11 +1,11 @@
 <?php 
+
 namespace MyApp\Base;
 
-class HelloWorld
+class AppBase
 {
 	public function index()
 	{
 		return "Hello World !!";
 	}
-
 }
